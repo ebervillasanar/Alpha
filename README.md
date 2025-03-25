@@ -1,2 +1,3 @@
-# Alpha
-Sistema de practica de github
+# Modificando el Alpha para pruebas
+
+este es otro texto
